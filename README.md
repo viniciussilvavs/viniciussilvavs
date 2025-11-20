@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Vinícius da Silva Araujo</h1>
 
 <p align="center">
-  Futuro Desenvolvedor Backend • Atualmente focado em Python • A caminho de Go • JavaScript como desejo 🚀
+   Desenvolvedor Backend | Python | Go
 </p>
 
 ---
@@ -16,9 +16,6 @@ Gosto de entender como as coisas funcionam por trás das aplicações e estou fo
 - **Python** (foco atual)
 - **Go (Golang)** (próxima etapa do aprendizado)
 - **Git & GitHub**
-
-### 🔮 Desejo aprender futuramente
-- **JavaScript**
 
 ---
 
