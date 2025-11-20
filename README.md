@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Vinícius da Silva Araujo</h1>
+<h1 align="center">👋 Olá, eu sou o Vinícius da Silva Araújo</h1>
 
 <p align="center">
    Desenvolvedor Backend | Python | Go
