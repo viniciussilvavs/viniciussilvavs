@@ -45,7 +45,7 @@ Gosto de entender como as coisas funcionam por trás das aplicações e estou fo
 ---
 
 ## 📫 Como falar comigo
-- **Email:** Viníciussilva.vs903@gmail.com  
+- **Email:** viniciussilva.vs903@gmail.com  
 - **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/viniciusaraujodesenvolvedorbackend/)
 
 ---
